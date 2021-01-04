@@ -1,0 +1,9 @@
+#write the ideas here in unordered form we will order them later 
+#write # for comments
+#write it in this format 
+#Idea name (short idea description) [components of idea]
+#more rules will come!
+
+Testimonials (reviews/statements of peoplr about school) [photo, statement, name]
+
+
